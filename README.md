@@ -1,2 +1,2 @@
 # testrepo
-repom for data science
+repo for data science
